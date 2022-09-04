@@ -1,0 +1,16 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Paint",
+      "value": "Samuela"
+    },
+    {
+      "trait_type": "Colour",
+      "value": "Sun"
+    }
+  ],
+  "description": "A cute painting by a kid",
+  "image": "ipfs://QmXLWNzvq3GJ7t5EN74eo4UiAiBe1Ls5hMS44xtN5jLdBj",
+  "name": "Ramses"
+}
+
